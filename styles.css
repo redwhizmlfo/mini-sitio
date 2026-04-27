@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f3f3f3;
+    background: linear-gradient(to right, #f3f3f3, #e0e0e0);
     text-align: center;
     padding: 50px;
 }
@@ -22,4 +22,9 @@ button {
     color: white;
     border: none;
     border-radius: 5px;
+}
+
+#extra {
+    font-style: italic;
+    color: darkblue;
 }
